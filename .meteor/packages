@@ -20,3 +20,6 @@ autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 bootstrap
 mrt:bootstrap-3
+accounts-base
+accounts-password
+ian:accounts-ui-bootstrap-3
